@@ -1,4 +1,4 @@
-# 🤖 Ibis Magus AI v2.0
+# 🤖 Ibis Magus AI
 
 > Agentic CLI Assistant - Production Grade
 
@@ -27,7 +27,7 @@ npm test
 ## 📁 Project Structure
 
 ```
-ibis-v2/
+ibis/
 ├── src/
 │   ├── tools.ts           # Tool Registry (10 tools + Zod validation)
 │   ├── state.ts           # State Store (pub/sub pattern)
@@ -164,7 +164,7 @@ Ibis: ได้ค่ะ กำลังอ่านไฟล์ให้...
   • Model: llama3.2:3b
   • Max turns: 10
   • Uptime: 2m 15s
-  • Workspace: /home/user/ibis-v2
+  • Workspace: /home/user/ibis
 ```
 
 ---
